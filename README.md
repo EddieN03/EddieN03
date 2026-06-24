@@ -46,9 +46,9 @@ Configured search query infrastructure to minimize latency and audited content s
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddien03&show_icons=true&theme=transparent" alt="My GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=eddien03&show_icons=true&theme=transparent" alt="My GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddien03&theme=transparent" alt="My GitHub Streak" />
-  <br/>
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddien03&layout=compact&theme=transparent" alt="My Top Languages" />
 </div>
 
